@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohamed Suja</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
+- A hard-working, Detail-oriented, methodical professional and self-motivated Mobile Application Developer. Worked as an Application Developer with vast experience in continuously developing, implementing and adopting new technologies to maximize development efficiency and innovate applications; skills involve design, develop, implement and enhance highly optimized cross-platform hybrid mobile apps and methods to meet both internal and external analysis requirements.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsuja&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsuja" /> </p>
 
 - 🏬 I'm currently studying **B.Sc Computing & Information Systems**
