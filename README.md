@@ -18,19 +18,31 @@
  <span aria-hidden="true">React Native Essential Training</span>
  </a>
  </div>
- 
+  <div> 
  <a href="https://www.linkedin.com/learning/certificates/2781dba94a5d9cf3293ddeec681dabcc99aa38dafb7cf7185e59b0ec0a0e20bd">
  <span aria-hidden="true">From React to React Native</span>
  </a>
+ </div>
+ <div> 
  <a href="https://www.linkedin.com/learning/certificates/11051aed6205be9ed01242bd18a5d65f081d7312ebf60f86cd4b0fd949010c66">
  <span aria-hidden="true">Create a CRM Mobile Application with React Native</span>
  </a>
+ </div>
+ <div> 
  <a href="https://www.linkedin.com/learning/certificates/ab5f57157cd7f70da1ad1cb26f314bf14aaaca0f6ff8c923064f6741b3623341">
  <span aria-hidden="true">React Native Ecosystem and Workflow</span>
  </a>
- <a href="https://www.linkedin.com/learning/certificates/25471577326374a537127a0dd3de3f207efa7f97e90aa9e440959c8cc4903627">
+ </div>
+ <div> 
+  <a href="https://www.linkedin.com/learning/certificates/25471577326374a537127a0dd3de3f207efa7f97e90aa9e440959c8cc4903627">
  <span aria-hidden="true">Learning React Native</span>
  </a>
+ </div>
+ 
+ 
+ 
+ 
+
 
 </blockquote>
 
