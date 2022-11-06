@@ -96,7 +96,7 @@ I have worked as an Application Developer, implementing and adopting new technol
  
  <div>
  <a href="https://www.linkedin.com/learning/certificates/3eb19c0a0c2553976ca3809e8c555a5d62bffef3af510c930b8d447d0da77b5b?trk=share_certificate">
- <span aria-hidden="true">Learning Full-Stack JavaScript Development: MongoDB, Node, and React (2016)</span>
+ <span aria-hidden="true">Learning Full-Stack JavaScript Development: MongoDB, Node, and React</span>
  </a>
  </div>
  
