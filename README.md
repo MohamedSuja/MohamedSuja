@@ -13,6 +13,9 @@
 
 ### Become a React Native Developer
  <blockquote align="left" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
+ <a href="https://www.linkedin.com/learning/certificates/08945b3665780650eac14742e2f1da4899d5a0a6b9073b05fbe5a6942bada997">
+ <span aria-hidden="true"><!---->React Native Essential Training<!----></span>
+ </a>
 </blockquote>
 
 <h3 align="left">Connect with me:</h3>
