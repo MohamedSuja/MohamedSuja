@@ -38,11 +38,87 @@
  <span aria-hidden="true">Learning React Native</span>
  </a>
  </div>
- 
- 
- 
- 
+</blockquote>
 
+### Become a MERN Stack JavaScript Developer
+ <blockquote align="left" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
+ <div>
+ <a href="">
+ <span aria-hidden="true">React.js Essential Training</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">React: Design Patterns</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Node.js Essential Training</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Learning npm the Node Package Manager</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Building a Website with Node.js and Express.js</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Introduction to MongoDB</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Express Essential Training</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Building RESTful APIs with Node.js and Express</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Learning Full-Stack JavaScript Development: MongoDB, Node, and React (2016)</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Node.js: Securing RESTful APIs</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Node.js: Security</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">React: Securing Applications</span>
+ </a>
+ </div>
+ 
+ <div>
+ <a href="">
+ <span aria-hidden="true">Node.js: Testing and Code Quality</span>
+ </a>
+ </div>
 
 </blockquote>
 
