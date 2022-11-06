@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Suja</h1>
 <h3 align="center">I,m Mobile Application Developer</h3>
 
+<p align="center">A hard working, Detail oriented, methodical professional and self motivated Mobile Application Developer. Worked as an Application Developer, implementing and adopting new technologies to maximize development efficiency and innovate applications; skills involve design, develop, implement and enhance highly optimized cross-platform hybrid mobile apps and methods to meet both internal and external analysis requirements.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsuja&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsuja" /> </p>
 
 - 🏬 I'm currently studying **B.Sc Computing & Information Systems**
 
-- 🏬 I'm currently working as a **trainee software engineer at codelantic**
+- 🏦 I'm currently working as a **trainee software engineer at codelantic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
