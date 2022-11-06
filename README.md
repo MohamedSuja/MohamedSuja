@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsuja&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsuja" /> </p>
 
-- 🏬 I'm currently studying **B.Sc Computing & Information Systems**
+- 🏬 I'm currently studying **B.Sc Computing & Information Systems** at [Sabaragamuwa University of Sri Lanka][uni]
 
 - 🏦 I'm currently working as a **trainee software engineer at codelantic**
 
@@ -31,3 +31,8 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsuja&show_icons=true&locale=en&layout=compact" alt="mohamedsuja" /></p>
+  
+  
+  
+  
+  [uni]: https://www.sab.ac.lk/
