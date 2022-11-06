@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Suja</h1>
 <h3 align="center">I am a Mobile Application Developer</h3>
 
-<p align="center">
+<p>
 I am a hardworking, detail-oriented, methodical professional with an entrepreneurial spirit. As an Application Developer, my skills include the design and implementation of applications that maximize efficiency and innovation. I'm also a strong problem solver.
 
 I have worked as an Application Developer, implementing and adopting new technologies to maximize development efficiency and innovate applications. My experience includes designing, developing, implementing, and enhancing highly optimized cross-platform hybrid mobile applications.
