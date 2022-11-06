@@ -9,9 +9,9 @@ I have worked as an Application Developer, implementing and adopting new technol
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsuja&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsuja" /> </p>
 
-- 🏬 I'm **B.Sc Computing & Information Systems** undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
+- 🏬 **B.Sc Computing & Information Systems** undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
 
-- 🏦 I'm currently working as a **trainee software engineer** at [codelantic][off]
+- 🏦 Working as a **trainee software engineer** at [codelantic][off]
 
 ## Achievement 
 
