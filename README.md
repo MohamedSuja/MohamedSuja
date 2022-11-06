@@ -43,79 +43,79 @@
 ### Become a MERN Stack JavaScript Developer
  <blockquote align="left" class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/248445e0759b6822f3dc3efcc22c93e2afdd61124df2d0a23f116f426b7f4b2b?trk=share_certificate">
  <span aria-hidden="true">React.js Essential Training</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/dcbaf66c597c74f46b267e34b3eba22eea9a77cee5cd0edbd0fd2a0fdf7bc6c0?trk=share_certificate">
  <span aria-hidden="true">React: Design Patterns</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/bdcd67d22058678a021e917c969a8e990102182dd079a894247bb2e490c88305?trk=share_certificate">
  <span aria-hidden="true">Node.js Essential Training</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/add96dd029827bc40688be8788ae0c2f5e3ef55b1477338b1e797cbcbc190160?trk=share_certificate">
  <span aria-hidden="true">Learning npm the Node Package Manager</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/f804685cbac4109cc88c90a1860b3668139ea221516ae32b0ec00ca3e3cbccea?trk=share_certificate">
  <span aria-hidden="true">Building a Website with Node.js and Express.js</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/5d4dce3bd6bbe5ff788ce9fbc51de25dea222711048283ee4751627b7b13793a?trk=share_certificate">
  <span aria-hidden="true">Introduction to MongoDB</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/92d50b63e865034200dd488c6492cd1d4d661be4f170cf12997d1aa52312fca2?trk=share_certificate">
  <span aria-hidden="true">Express Essential Training</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/fb97f0b23aa0e0a9d0379e5719a0b3a53787cc3aac64035121ee8b6c3034e334?trk=share_certificate">
  <span aria-hidden="true">Building RESTful APIs with Node.js and Express</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/3eb19c0a0c2553976ca3809e8c555a5d62bffef3af510c930b8d447d0da77b5b?trk=share_certificate">
  <span aria-hidden="true">Learning Full-Stack JavaScript Development: MongoDB, Node, and React (2016)</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/0718aaee9864e5051161dbcc9acff288717722d93468455ee5c660f4182d4451?trk=share_certificate">
  <span aria-hidden="true">Node.js: Securing RESTful APIs</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/dcc51b4bf9c1eb8f16798d096997e35d7592191c8daded713203f953205063c0?trk=share_certificate">
  <span aria-hidden="true">Node.js: Security</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/0b8a0049e37f027e83f7f7a6b017706fa8218c016fedab746e54579ff507f4b5?trk=share_certificate">
  <span aria-hidden="true">React: Securing Applications</span>
  </a>
  </div>
  
  <div>
- <a href="">
+ <a href="https://www.linkedin.com/learning/certificates/0abe1fb546c9fdf7e2aff2b0ca4a47fe2a4c98115cd8c4d1d9969ab1690e299f">
  <span aria-hidden="true">Node.js: Testing and Code Quality</span>
  </a>
  </div>
