@@ -7,7 +7,7 @@
 
 - 🏬 I'm currently studying **B.Sc Computing & Information Systems** at [Sabaragamuwa University of Sri Lanka][uni]
 
-- 🏦 I'm currently working as a **trainee software engineer at codelantic**
+- 🏦 I'm currently working as a **trainee software engineer at ** [codelantic][off]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +36,4 @@
   
   
   [uni]: https://www.sab.ac.lk/
+  [off]: https://codelantic.com/
