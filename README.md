@@ -11,7 +11,7 @@ I have worked as an Application Developer, implementing and adopting new technol
 
 - 🏬 **B.Sc Computing & Information Systems** undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
 
-- 🏦 Working as a **trainee software engineer** at [codelantic][off]
+- 🏦 Working as a **Software Engineer** at [codelantic][off]
 
 ## Achievement 
 
